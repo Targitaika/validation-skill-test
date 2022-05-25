@@ -1,0 +1,17 @@
+.field{
+    border-color: grey;
+    outline: none;
+    border-width: 3px;
+    transition: .2s;
+    width: 300px;
+    height: 23px;
+}
+.focus{
+    border-color: blue;
+}
+.unvalid{
+    border-color: red;
+}
+.success{
+    border-color: green;
+}

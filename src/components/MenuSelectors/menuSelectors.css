@@ -1,0 +1,20 @@
+.show{
+    visibility: visible;
+}
+.hide{
+    visibility: hidden;
+}
+.list {
+    background: dimgrey;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    top:80px;
+    right: 0;
+}
+.list-item{
+    cursor: pointer;
+}
+.list-item:hover{
+    background: rgba(255, 255, 255, 0.1);
+}
